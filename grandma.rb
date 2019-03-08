@@ -1,4 +1,9 @@
 def speak_to_grandma
+  if "Hi nana, how are you?"
+    puts ""
+
+
+
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
